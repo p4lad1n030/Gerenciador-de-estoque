@@ -11,7 +11,7 @@ const sendEmailVerificationDiv = document.getElementById(
 );
 const emailVerified = document.getElementById("emailVerified");
 const actionCodeSettings = {
-  url: "http://127.0.0.1:5500/index.html",
+  url: "https://p4lad1n030.github.io/Gerenciador-de-estoque/",
 };
 const passwordReset = document.getElementById("passwordReset");
 const fileImg = document.getElementById("file");
