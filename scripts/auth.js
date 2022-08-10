@@ -7,7 +7,7 @@ formLogin.onsubmit = function (e) {
     /*Acesso de usuários cadastrados*/
     auth.signInWithEmailAndPassword(formLogin.email.value, formLogin.password.value).then((user) => {
       if (user) {
-        window.location.href = '../src/Controle.html'
+        window.location.href = '../src/Controle.html' 
       } else {
         console.log('Usuário ou senha incorretos', error)
       }
