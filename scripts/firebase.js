@@ -1,10 +1,10 @@
 const firebaseConfig = {
-  apiKey: "AIzaSyCjhLUAD3amEgXbc9xWg0X6MBykjz1tBFQ",
-  authDomain: "gerenciador-de-estoque-17012.firebaseapp.com",
-  projectId: "gerenciador-de-estoque-17012",
-  storageBucket: "gerenciador-de-estoque-17012.appspot.com",
-  messagingSenderId: "432612750377",
-  appId: "1:432612750377:web:ca2a39d381aec33f171838"
+  apiKey: "AIzaSyAH74ykz09yJfnQsm8GK5mWBbcTuvpbNQU",
+  authDomain: "gerenciador-de-estoque-23c2b.firebaseapp.com",
+  projectId: "gerenciador-de-estoque-23c2b",
+  storageBucket: "gerenciador-de-estoque-23c2b.appspot.com",
+  messagingSenderId: "1016068686698",
+  appId: "1:1016068686698:web:2fab1a6345397f745d1b13"
 };
 
 // Initialize Firebase
